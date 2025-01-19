@@ -9,6 +9,7 @@ To fork or run a [Standard Relayer API](https://0x.org/docs/api#sra) instance, y
 [![dependencies Status](https://david-dm.org/0xproject/0x-launch-kit-frontend/status.svg)](https://david-dm.org/0xproject/0x-launch-kit-frontend)
 [![devDependencies Status](https://david-dm.org/0xproject/0x-launch-kit-frontend/dev-status.svg)](https://david-dm.org/0xproject/0x-launch-kit-frontend?type=dev)
 [![Coverage Status](https://coveralls.io/repos/github/0xProject/0x-launch-kit-frontend/badge.svg?branch=feature%2Fcoveralls)](https://coveralls.io/github/0xProject/0x-launch-kit-frontend?branch=feature%2Fcoveralls)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FAremixdj%2F0x-launch-kit-frontend.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FAremixdj%2F0x-launch-kit-frontend?ref=badge_shield)
 
 This is an example implementation of a dApp that interacts with a [0x relayer](https://github.com/0xProject/standard-relayer-api). To use it, you need to have the URL of an existing relayer, or you can start one locally for use during development.
 
@@ -131,3 +132,7 @@ Check `.env.example` for the full list.
 ### Using custom themes
 
 If you want to add your own theme for the app, please read the [THEMES.md](THEMES.md) file
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FAremixdj%2F0x-launch-kit-frontend.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FAremixdj%2F0x-launch-kit-frontend?ref=badge_large)
